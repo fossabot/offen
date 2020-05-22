@@ -6,6 +6,7 @@
 [![CircleCI](https://circleci.com/gh/offen/offen/tree/development.svg?style=svg)](https://circleci.com/gh/offen/offen/tree/development)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/offen/offen.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/offen/offen/alerts/)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/offen/offen.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/offen/offen/context:javascript)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foffen%2Foffen.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Foffen%2Foffen?ref=badge_shield)
 
 Offen is a fair alternative to common web analytics tools. Pay respect to your users while gaining insight into their behavior. Self hosted, open source and free.
 
@@ -143,3 +144,7 @@ Found an issue or want to add something? Please do not hesitate to file an issue
 [Website](https://www.offen.dev/)  
 [Docs](https://docs.offen.dev/)  
 [Twitter](https://twitter.com/hioffen)  
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Foffen%2Foffen.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Foffen%2Foffen?ref=badge_large)
